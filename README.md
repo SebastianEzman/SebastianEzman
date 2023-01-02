@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @SebastianEzman
+- 👀 I’m interested in everything at the moment trying to figure out what I like
+- 🌱 I’m currently learning software engineering at carleton university
